@@ -2,11 +2,14 @@ body{
     font-style: italic;
 }
 .main{
-    width:60% ;
+    width:90% ;
     margin: 20px auto;
     border: solid blue 1px;
     padding: 20px;
     background-color: chocolate;
+}
+h2{
+    color:lime;
 }
 .encabezado{
     background-color: darkred;
