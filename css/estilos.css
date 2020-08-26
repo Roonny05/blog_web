@@ -2,16 +2,19 @@ body{
     font-style: italic;
 }
 .main{
-    width:70% ;
+    width:60% ;
     margin: 20px auto;
     border: solid blue 1px;
     padding: 20px;
     background-color: chocolate;
 }
 .encabezado{
-    background-color: cornflowerblue;
+    background-color: darkred;
     padding: 20px;
     margin-bottom:20px ;
     font-size: 30px;
     box-shadow: 0px 10px 10px black;
+}
+h3{
+    color: crimson;
 }
